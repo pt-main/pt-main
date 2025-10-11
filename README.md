@@ -31,7 +31,6 @@ These are the core projects I lead and architect.
 | :--- | :--- | :--- | :--- |
 | **[Voxel](https://github.com/Intelektika-team/Voxel)** | Hybrid ASM/Python language & VM with tape-based memory model and Python transpilation | `Beta v0.7.8` | Python, Custom VM, AST |
 | **[Patch](https://github.com/Intelektika-team/Patch)** | Programmable macro/keypad for developers with hardware script execution | `Active Development` | C/C++, Arduino, ESP-IDF |
-| **MD Libraries** | Cryptographic systems & data architecture with secure memory management | `Stable` | Python, Cryptography |
 
 ---
 
