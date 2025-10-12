@@ -3,6 +3,7 @@
 ![Swift](https://img.shields.io/badge/Swift-Advanced-F05138?logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Learning-000000?logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
+![design](https://img.shields.io/badge/Design-Learning-00599C?logo=c%2B%2B&logoColor=white)
 
 ### 🧠 Systems Architect & Core Developer
 
