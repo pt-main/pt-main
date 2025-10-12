@@ -3,7 +3,7 @@
 ![Swift](https://img.shields.io/badge/Swift-Advanced-F05138?logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Learning-000000?logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
-![design](https://img.shields.io/badge/Design-Learning-00599C?logo=c%2B%2B&logoColor=white)
+![design](https://img.shields.io/badge/Design-Learning-00C000)
 
 ### 🧠 Systems Architect & Core Developer
 
@@ -22,8 +22,7 @@ A lead developer and architect focused on building high-performance, low-level s
 
 ---
 
-### 🚀 Principal Projects ![Beta](https://img.shields.io/badge/Voxel-Beta-yellow) ![Active](https://img.shields.io/badge/Patch-Development-brightgreen)
-
+### 🚀 Principal Projects    
 
 
 These are the core projects I lead and architect.
