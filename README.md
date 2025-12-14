@@ -1,8 +1,6 @@
-# === PT - TEAMLEAD ===
+# ==== PT - TEAMLEAD ====
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-Advanced-F05138?logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Learning-000000?logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
 ![design](https://img.shields.io/badge/Design-Learning-00C000)
 
 ### 🧠 Systems Architect & Core Developer
@@ -16,7 +14,8 @@ A lead developer and architect focused on building high-performance, low-level s
 | Domain | Proficiencies |
 | :--- | :--- |
 | **Systems Programming** | `C/C++`, `Arduino`, `ESP-IDF` |
-| **Application & Scripting** | `Python`, `Swift`, `Bash` |
+| **Application & Scripting** | `Python`, `Bash` |
+| **Main Languages** | `Python`, `Swift`, `Java` |
 | **Cryptography & Security** | Custom Algorithms, `Fernet`, `PBKDF2`, Secure Data Architectures |
 | **Development Tools** | `Git`, CLI Tools, Hardware Integration, `NumPy/CuPy` |
 
@@ -29,7 +28,6 @@ These are the core projects I lead and architect.
 
 | Project | Description | Status | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[Voxel](https://github.com/Intelektika-team/Voxel)** | Hybrid ASM/Python language & VM with tape-based memory model and Python transpilation | `Beta v0.7.8 (closed)` | Python, Custom VM, AST |
 | **[Patch](https://github.com/Intelektika-team/Patch)** | Programmable macro/keypad for developers with hardware script execution | `Active Development` | C/C++, Arduino, ESP-IDF |
 
 ---
