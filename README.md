@@ -1,4 +1,4 @@
-# ==== PT - TEAMLEAD ====
+# PT - TEAMLEAD
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-Advanced-F05138?logo=swift&logoColor=white)
 ![design](https://img.shields.io/badge/Design-Learning-00C000)
