@@ -1,7 +1,7 @@
 # PT - TEAMLEAD
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-Advanced-F05138?logo=swift&logoColor=white)
-![design](https://img.shields.io/badge/Design-Learning-00C000)
+![Python & Cython](https://img.shields.io/badge/Python_&_Cython-Expert-3776AB?logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Java-Advanced-F05138?logo=swift&logoColor=white)
+![design](https://img.shields.io/badge/Design-Active_Learning-00C000)
 
 ### 🧠 Systems Architect & Core Developer
 
@@ -16,8 +16,6 @@ A lead developer and architect focused on building high-performance, low-level s
 | **Systems Programming** | `C/C++`, `Arduino`, `ESP-IDF` |
 | **Application & Scripting** | `Python`, `Bash` |
 | **Main Languages** | `Python`, `Swift`, `Java` |
-| **Cryptography & Security** | Custom Algorithms, `Fernet`, `PBKDF2`, Secure Data Architectures |
-| **Development Tools** | `Git`, CLI Tools, Hardware Integration, `NumPy/CuPy` |
 
 ---
 
@@ -28,7 +26,7 @@ These are the core projects I lead and architect.
 
 | Project | Description | Status | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[Patch](https://github.com/Intelektika-team/Patch)** | Programmable macro/keypad for developers with hardware script execution | `Active Development` | C/C++, Arduino, ESP-IDF |
+| **[Patch](https://github.com/Intelektika-team/Patch)** | Programmable keypad for developers with hardware script execution | `Active Development` | C/C++, Arduino, ESP-IDF |
 
 ---
 
