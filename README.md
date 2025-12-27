@@ -36,4 +36,12 @@ These are the core projects I lead and architect.
 *   **Public Repositories:** All projects available in the team organization
 *   **Core Focus:** Language design, cryptography, embedded systems, and developer tools
 
-<img width="1411" height="200" alt="intelektikaforgit2" src="https://github.com/user-attachments/assets/dd4aa5cb-4113-4562-b03b-dd4206a03013" />
+<img width="200" align="left" alt="logo-small" src="https://github.com/user-attachments/assets/a6d88656-6ed8-4c2d-bbe8-533c55d55c5e" />
+
+**Intelektika Team · 2025 · Pt**
+
+Kvantorium 73.
+
+[Our site](https://intelektika-team.github.io/)
+
+<br clean="left">
