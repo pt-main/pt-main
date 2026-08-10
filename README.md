@@ -1,4 +1,4 @@
-# PT - TEAMLEAD
+# PT
 
 **Core Focus:** Language design, embedded systems, low-level programming, and developer tools
 
