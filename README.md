@@ -6,6 +6,7 @@
 - [Lc](https://github.com/pt-main/Lc): Unique programming language building system.
 - [Tap](https://github.com/pt-main/tap): Simple and powerfull library for creating cli's with colored output.
 - [Tycl](https://github.com/pt-main/tycl): Typed configuration language. Written on lc.
+- [Run](https://github.com/pt-main/run): Simple and powerfull script manager. Based on tap, lc and tycl.
 
 <img width="200" align="left" alt="logo-small" src="https://github.com/user-attachments/assets/70f7b29c-09cb-444b-990c-7ec1a22b6d42" />
 
