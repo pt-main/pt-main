@@ -4,7 +4,7 @@
 
 ## Main projects now:
 - [Lc](https://github.com/pt-main/Lc): Unique programming language building system.
-- [Tap](https://github.com/pt-main/tap): Simple and powerful library for creating cli's with colored output.
+- [Tap](https://github.com/pt-main/tap): Simple and powerful library for creating cli's with colored output (for go and rust).
 
 ## Secondary projects:
 - [Tycl](https://github.com/pt-main/tycl): Typed configuration language. Written on lc.
