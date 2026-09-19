@@ -3,12 +3,12 @@
 **Core Focus:** Language design, embedded systems, low-level programming, and developer tools
 
 ## Main projects now:
-- [Lc](https://github.com/pt-main/Lc): Unique programming language building system.
+- [Run](https://github.com/pt-main/run): Simple and powerful script manager. Based on tap, lc and tycl.
 - [Tap](https://github.com/pt-main/tap): Simple and powerful library for creating cli's with colored output (for go and rust).
 
 ## Secondary projects:
+- [Lc](https://github.com/pt-main/Lc): Unique programming language building system.
 - [Tycl](https://github.com/pt-main/tycl): Typed configuration language. Written on lc.
-- [Run](https://github.com/pt-main/run): Simple and powerful script manager. Based on tap, lc and tycl.
 - [Pack](https://github.com/pt-main/pack): Lightweight file archiver with encryption and zipping.
 
 ## My utils
