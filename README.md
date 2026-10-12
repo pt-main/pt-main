@@ -1,6 +1,8 @@
 # PT
 
-**Core Focus:** Language design, embedded systems, low-level programming, and developer tools
+**Core Focus:** Language design, embedded systems, low-level programming, and developer tools. Now learning cyber security. 
+
+**Languages:** Go, Rust, C, Python, Lua.
 
 ## Main projects now:
 - [Run](https://github.com/pt-main/run): Simple and powerful script manager. Based on tap, lc and tycl.
