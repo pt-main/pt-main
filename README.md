@@ -7,7 +7,7 @@
 ## Main projects now:
 - [Run](https://github.com/pt-main/run): Simple and powerful script manager. Based on tap, lc and tycl.
 - [Manage](https://github.com/pt-main/manage): Powerful cli task manager.
-- [Tessera](https://github.com/pt-main/tessera): A simple, portable, strictly typed data storage language, writen on Rust (has C and Lua versions).
+- [Tessera](https://github.com/pt-main/tessera): A simple, portable, strictly typed data storage language, writen on Rust (has C, Go and Lua versions).
 
 ## Secondary projects:
 - [Lc](https://github.com/pt-main/Lc): Unique programming language building system.
