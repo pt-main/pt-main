@@ -2,7 +2,7 @@
 
 **Core Focus:** Language design, embedded systems, low-level programming, and developer tools. Now learning cyber security. 
 
-**Languages:** Go, Rust, C, Python, Lua.
+**Languages:** Go (main), Rust (main), C (sub), Python (sub), Lua (sub).
 
 ## Main projects now:
 - [Manage](https://github.com/pt-main/manage): Powerful cli task manager.
