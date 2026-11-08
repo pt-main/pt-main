@@ -5,12 +5,12 @@
 **Languages:** Go (main), Rust (main), C (sub), Python (sub), Lua (sub).
 
 ## Main projects now:
-- [Manage](https://github.com/pt-main/manage): Powerful cli task manager.
-- [Tessera](https://github.com/pt-main/tessera): A simple, portable, strictly typed data storage language, writen on Rust (has C, Go and Lua versions).
+- [Manage](https://github.com/pt-main/manage): Powerful cli task manager. Using tap and Tessera.
+- [Tessera](https://github.com/pt-main/tessera): A simple, portable, strictly typed data storage language, writen on Rust (has C, Go and Lua versions). Parsing speed in the C version reaches 4 GB/s (on an i7-4770HQ).
 
 ## Secondary projects:
 - [Lc](https://github.com/pt-main/Lc): Unique programming language building system.
-- [Run](https://github.com/pt-main/run): Simple and powerful script manager. Based on tap, Lc and tycl.
+- [Run](https://github.com/pt-main/run): Simple and powerful script manager. Based on tap, Lc, Pack and Tycl.
 - [Tap](https://github.com/pt-main/tap): Simple and powerful library for creating cli's with colored output (for go and rust).
 
 ## My utils:
