@@ -10,6 +10,7 @@
 
 ## Secondary projects:
 - [Lc](https://github.com/pt-main/Lc): Unique programming language building system.
+- [Scholion](https://github.com/pt-main/scholion): Language-agnostic code preprocessor with embedded Lua macros. Generate code directly inside source comments without breaking target language syntax or IDE support.
 - [Run](https://github.com/pt-main/run): Simple and powerful script manager. Based on tap, Lc, Pack and Tycl.
 - [Tap](https://github.com/pt-main/tap): Simple and powerful library for creating cli's with colored output (for go and rust).
 
